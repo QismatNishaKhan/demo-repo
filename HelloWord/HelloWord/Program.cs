@@ -8,18 +8,19 @@ namespace HelloWord
     internal class Program
     {
         
-        public static void methed()
-        {
+       // public static void methed()
+       // {
 
 
 
-        }
+        //}
 
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            method();
+            Console.WriteLine("good evening everyone");
+            
         }
     }
 }
