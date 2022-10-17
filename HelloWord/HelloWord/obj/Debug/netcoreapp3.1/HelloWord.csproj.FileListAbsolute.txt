@@ -1,0 +1,14 @@
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.exe
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.deps.json
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.dll
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.pdb
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.dll
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.pdb
+C:\Users\HI\OneDrive\Desktop\brigdelabz  new\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.genruntimeconfig.cache
